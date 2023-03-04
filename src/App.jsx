@@ -3,6 +3,7 @@ import { links } from './constants/links';
 const App = () => {
 	return (
 		<div className="flex flex-col justify-center items-center mt-2 mx-auto max-w-[75vw]">
+			<h1 className="font-bold text-5xl mb-2">SexMEMnator</h1>
 			{links.map((link) => (
 				<button
 					key={link.name}
