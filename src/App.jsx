@@ -18,6 +18,10 @@ const App = () => {
 					</a>
 				</button>
 			))}
+			<p>
+				Please stay tuned I will have a newsletter sign up form soon
+				until then you can just bookmark this page! Great thanks!!
+			</p>
 			{/* <div>
 				<h1>Email Sign Up</h1>
 				<form className="flex flex-col">
