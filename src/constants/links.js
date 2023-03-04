@@ -18,4 +18,8 @@ export const links = [
 		name: 'RedGIFs',
 		link: 'https://www.redgifs.com/users/earthtomemphis',
 	},
+	{
+		name: 'The Male Escort Agency',
+		link: 'https://www.themaleescortagency.com/us/portfolio/memphis-d/',
+	},
 ];
